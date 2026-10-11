@@ -1,1 +1,1 @@
-# search-service
+# @nuxt4-layers/search-service
